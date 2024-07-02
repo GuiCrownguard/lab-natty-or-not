@@ -82,5 +82,12 @@ De um amor que o tempo não pode apagar.
 No eterno ciclo da noite e do dia,  
 Em cada sonho, sempre a nos encontrar.  
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+## 💬 Conclusão
+Acredito que o desenvolvimento com IA consegue ser algo muito bom, que pode nos ajudar e fazer coisas incríveis em questão de segundos, assim como pode ser muito ruim gerando vídeos e fotos falsas que difamam a imagem das pessoas...Entretanto cabe a nós seres humanos utilizarmos-as para o bem ou mal...😌  
+
+Para acessar mais projetos como esse desenvolvidos por mim (em parceria com Inteligências artificais),
+📘[Projeto-Ebook](https://github.com/GuiCrownguard/Projeto-Ebook)
+💻[Projeto-Artigo](https://github.com/GuiCrownguard/Projeto-Artigo)
+🔊[Projeto-Podcast](https://github.com/GuiCrownguard/Projeto-Podcast)
+
+👨‍💻Autor: [Guilherme Mancusi Simões](https://www.linkedin.com/in/guilherme-mancusi-sim%C3%B5es-882873215/)
