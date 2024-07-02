@@ -10,6 +10,8 @@ Liste as IAs Generativas e outras ferramentas usadas
 Descreva como você criou o conteúdo
 
 ## 🚀 Resultados
+
+![Arte Contemporânea](Dall-E.jfif)
 Apresente os resultados do seu projeto
 
 ## 💭 Reflexão (Opcional)
