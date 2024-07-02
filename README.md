@@ -4,8 +4,8 @@
 Breve descrição do seu projeto
 
 ## 🤖 Tecnologias Utilizadas
-🖼Imagem Contemporânea => [DALL-E(Copilot Bing)](https://www.bing.com/chat)  
-📖Poema => [ChatGPT](https://chatgpt.com/)
+🖼Imagem Contemporânea -> [DALL-E (Copilot Bing)](https://www.bing.com/chat)  
+📖Poema -> [ChatGPT](https://chatgpt.com/)
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
