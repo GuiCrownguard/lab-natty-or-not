@@ -13,13 +13,15 @@ Espero que apreciem!😄💕🌠
 ## 🧐 Processo de Criação
 
 Foi utilizado no ChatGPT o seguinte prompt:  
+
 Crie por gentileza um poema com o tema amor e sonhos, que tenha no mínimo 7 estrofes sendo cada uma delas composta de aproximadamente 6 versos que sejam condizentes entre si e possuam rimas assim como deve ser um poema.  
 {REGRAS}  
 >Dê um título ao poema relacionado ao assunto proposto  
 >O poema deve condizer com a escrita da época dos anos de 1970  
 >Use como referência poetas como Ana Cristina César, Chacal e Nicolas Behr.  
 
-Já no Copilot, foi utilizado:  
+Já no Copilot, foi utilizado: 
+
 Gere uma imagem que relembre um quadro da era da arte contemporânea.
 
 ## 🚀 Resultados
