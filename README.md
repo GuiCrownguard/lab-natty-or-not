@@ -26,8 +26,11 @@ _Gere uma imagem que relembre um quadro da era da arte contemporânea._
 
 ## 🚀 Resultados
 
+# 🖼Imagem Contemporânea  
 ![Arte Contemporânea](Dall-E.jfif)
 
+
+# 📖Poema  
 _Sonhos entre Estrelas_
 
 No silêncio da noite estrelada,  
