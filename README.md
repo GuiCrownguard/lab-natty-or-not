@@ -22,7 +22,7 @@ Crie por gentileza um poema com o tema amor e sonhos, que tenha no mínimo 7 est
 
 Já no Copilot, foi utilizado: 
 
-__Gere____uma__imagem____que__relembre um quadro da era da arte contemporânea.__
+_Gere uma imagem que relembre um quadro da era da arte contemporânea._
 
 ## 🚀 Resultados
 
